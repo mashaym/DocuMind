@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated vector database (rebuilt automatically on first run)
+chroma_db/
+
+# Streamlit
+.streamlit/
